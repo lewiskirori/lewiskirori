@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning C++
 - 💬 Ask me about anything
 - 📫 How to reach me: :email: :phone:
