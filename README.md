@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🌱 I'm a Full-stack Web Developer | Android | Python | PHP | Node js | .Net Developer
-- 💬 Let's get started, <a href ="https://www.linkedin.com/in/lewis-kirori-382023223/">Ask me about anything</a> 
+- 💬 Let's get started, <a href ="https://wa.me/254783043031">Ask me about anything</a> 
 - 📫 How to reach me: <a href ="mailto:amicableycot@gmail.com">:email:</a> <a class="external" href ="tel:+254748452145">:phone:</a>                                                                          
