@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -         Skilled craftsmanship allied to advanced technology.
 -->
 #### 💬 Let's get started, <a href ="mailto:amicableycot@gmail.com">Ask me about anything</a> 
-- 📫 How to reach me: <a href ="mailto:amicableycot@gmail.com">:email:</a>                                                                         
+#### 📫 How to reach me: <a href ="mailto:amicableycot@gmail.com">:email:</a>                                                                         
