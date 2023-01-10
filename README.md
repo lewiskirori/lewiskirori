@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ALLIED: in combination or working together with.
 -         Skilled craftsmanship allied to advanced technology.
 -->
-## 💬 Let's get started, <a href ="mailto:amicableycot@gmail.com">Ask me about anything</a> 
+#### 💬 Let's get started, <a href ="mailto:amicableycot@gmail.com">Ask me about anything</a> 
 - 📫 How to reach me: <a href ="mailto:amicableycot@gmail.com">:email:</a>                                                                         
