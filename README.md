@@ -1,5 +1,5 @@
 
-### Good day👋!
+### Good day👋
 
 <!--
 **lewiskirori/lewiskirori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
