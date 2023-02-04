@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - ALLIED: in combination or working together with.
 -         Skilled craftsmanship allied to advanced technology.
+- SOftware ARchitect ASpirant: SOARAS
 -->
 #### Let's get started, <a href ="mailto:amicableycot@gmail.com">Ask me about anything</a>. <!--<a href ="mailto:amicableycot@gmail.com">:email:</a>-->
                                                                          
