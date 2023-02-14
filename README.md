@@ -1,6 +1,6 @@
 
-### 👋Good day!
-#### Follow me you ain't lost ;)
+### 👋 Good day!
+#### ;) Follow me you ain't lost, <a href ="mailto:amicableycot@gmail.com">ask me about anything</a>. 
 <!--
 **lewiskirori/lewiskirori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ALLIED: in combination or working together with.
 -         Skilled craftsmanship allied to advanced technology.
 - SOftware ARchitect ASpirant: SOARAS
+- ;) playful
 -->
-#### Let's get it, <a href ="mailto:amicableycot@gmail.com">ask me about anything</a>. <!--<a href ="mailto:amicableycot@gmail.com">:email:</a>-->
+<!--#### Let's get it, <a href ="mailto:amicableycot@gmail.com">ask me about anything</a>.--> <!--<a href ="mailto:amicableycot@gmail.com">:email:</a>-->
                                                      
