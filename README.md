@@ -1,6 +1,6 @@
 
-### 👋 Good day!
-#### ;) Follow me you ain't lost, <a href ="mailto:amicableycot@gmail.com">ask me about anything</a>. 
+### 👋Good day!
+#### Follow me you ain't lost, <a href ="mailto:amicableycot@gmail.com">ask me about anything</a> ;) 
 <!--
 **lewiskirori/lewiskirori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
