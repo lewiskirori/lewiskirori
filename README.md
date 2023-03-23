@@ -1,6 +1,6 @@
 
 ###  👋 Good day !
-####    <a href ="mailto:amicableycot@gmail.com"> Ask || aid about anything</a>, follow me you ain't lost (~_^)
+####    <a href ="mailto:amicableycot@gmail.com"> Ask or aid about anything</a>, follow me you ain't lost (~_^)
 #####     ✨I'm doing better than yesterday, and I'll keep improving tomorrow. My secret? Discipline trumps intelligence!✨
 <!--
 **lewiskirori/lewiskirori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
