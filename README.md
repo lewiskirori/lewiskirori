@@ -1,5 +1,5 @@
 
-###  👋 Good day 
+###   Good day 👋
 ####    <a href ="mailto:amicableycot@gmail.com"> Ask || aid about anything</a>, follow me you ain't lost (~_^)
 #####     I'm doing better than yesterday, and I'll keep improving tomorrow. My secret? Discipline trumps intelligence! ✨
 <!--
