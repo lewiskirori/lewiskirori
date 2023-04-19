@@ -3,8 +3,7 @@
 ####    <a href ="mailto:amicableycot@gmail.com"> Ask || aid about anything</a>, follow me you are not lost (~_^)
 #####     I'm doing better than yesterday, and I'll keep improving tomorrow. My secret? Discipline trumps intelligence!✨
 <!--
-**lewiskirori/lewiskirori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
+- **lewiskirori/lewiskirori** is a ✨ _special_ ✨ repository!
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,10 +12,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- ALLIED: in combination or working together with.
--         Skilled craftsmanship allied to advanced technology.
-- SOftware ARchitect ASpirant: SOARAS
-- ;) playful
--->
-<!--#### Let's get it, <a href ="mailto:amicableycot@gmail.com">ask me about anything</a>.--> <!--<a href ="mailto:amicableycot@gmail.com">:email:</a>-->
-                                                     
+- Avant-garde || forward-looking || progressive || revolutionary || ...
+- Allied: in combination || working together with && Skilled craftsmanship allied to advanced technology.
+- SOftware ARchitect ASpirant.
+- The Future and the Present.
+-->                                                     
