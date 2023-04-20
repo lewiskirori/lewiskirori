@@ -1,7 +1,7 @@
 
-###   Good day!👋
+###   Good day! 👋
 ####    <a href ="mailto:amicableycot@gmail.com"> Ask || aid about anything</a>, follow me you are not lost (~_^)
-#####     I'm doing better than yesterday, and I'll keep improving tomorrow. My secret? Discipline trumps intelligence!✨
+#####     I'm doing better than yesterday, and I'll keep improving tomorrow. My secret? Discipline trumps intelligence! ✨
 <!--
 - **lewiskirori/lewiskirori** is a ✨ _special_ ✨ repository!
 - 🔭 I’m currently working on ...
