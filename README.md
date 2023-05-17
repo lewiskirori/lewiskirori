@@ -6,6 +6,7 @@
 </p>
 ####    <a href ="mailto:amicableycot@gmail.com"> Ask || aid about anything</a>, follow me you are not lost (~_^)
 #####     We're doing better than yesterday, and we'll keep improving tomorrow. Our secret? Discipline trumps intelligence! ✨
+<script src="script.js"></script>
 
 <!--
 - **lewiskirori/lewiskirori** is a ✨ _special_ ✨ repository!
