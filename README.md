@@ -1,13 +1,7 @@
 
 ###   Good day! 👋
-
-<p align="center">
-  <img src="https://img.shields.io/static/v1?label=Greeting&message=Good%20Morning&color=brightgreen&logo=github" alt="Greeting">
-</p>
 ####    <a href ="mailto:amicableycot@gmail.com"> Ask || aid about anything</a>, follow me you are not lost (~_^)
 #####     We're doing better than yesterday, and we'll keep improving tomorrow. Our secret? Discipline trumps intelligence! ✨
-<script src="script.js"></script>
-
 <!--
 - **lewiskirori/lewiskirori** is a ✨ _special_ ✨ repository!
 - 🔭 I’m currently working on ...
