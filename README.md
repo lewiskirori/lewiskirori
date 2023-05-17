@@ -1,5 +1,11 @@
 
 ###   Good day! 👋
+# My Awesome Repository
+
+![Greeting Badge](https://img.shields.io/badge/Greeting-{{GREETING}}-brightgreen)
+
+Happy coding!
+
 ####    <a href ="mailto:amicableycot@gmail.com"> Ask || aid about anything</a>, follow me you are not lost (~_^)
 #####     We're doing better than yesterday, and we'll keep improving tomorrow. Our secret? Discipline trumps intelligence! ✨
 
