@@ -2,7 +2,7 @@
 ###   Good day! 👋
 ####    Thanks for dropping by. <a href ="mailto:amicableycot@gmail.com">Feel free to get in touch</a>; let's create something awesome! (~_^)
 ####     If you have any insights or contributions, I'm all ears.
-######         ⭐️ Let's build amazing things together! ⭐️
+######         ⭐️ Let's build amazing stuff together! ⭐️
 <!--
 - **lewiskirori/lewiskirori** is a ✨ _special_ ✨ repository!
 - 🔭 I’m currently working on ...
