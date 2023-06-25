@@ -2,7 +2,7 @@
 ###   Good day! 👋
 ####    Thanks for dropping by. <a href ="mailto:amicableycot@gmail.com">Feel free to get in touch</a>; let's create something awesome! (~_^)
 ####     I'm all ears if you have any insights or contributions.
-######         ⭐️ The bad news: Time flies. The good news: You're the pilot. :)
+######         ⭐️ The bad news: Time flies. The good news: You're the pilot. :) ⭐️
 <!--
 - **lewiskirori/lewiskirori** is a ✨ _special_ ✨ repository!
 - 🔭 I’m currently working on ...
