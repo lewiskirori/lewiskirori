@@ -2,7 +2,7 @@
 ###   Good day! 👋
 ####    Thank you for dropping by. Please do not hesitate to <a href ="mailto:amicableycot@gmail.com">get in touch</a>; let’s create something awesome!
 ####     To any insights or contributions you may have, I’m receptive and attentive. (~_^)
-######         You're the pilot of your life, embracing the thrill of each moment as time soars by, steering towards your dreams with unstoppable determination. ✈️😄
+######         You’re the pilot of your life, embracing the thrill of each moment as time soars by, steering towards your dreams with unstoppable determination. ✈️😄
 <!--
 - **lewiskirori/lewiskirori** is a ✨ _special_ ✨ repository!
 - 🔭 I’m currently working on ...
