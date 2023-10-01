@@ -1,8 +1,8 @@
 
 ###   Good day! 👋
-####    Thank you for dropping by. <a href ="mailto:amicableycot@gmail.com">Connect with me</a>; let’s create something awesome!
-####     To any insights or contributions, I’m receptive and attentive. (~_^)
-######         You’re the pilot of your life, embracing the thrill of each moment as time soars by, steering towards your dreams with unstoppable determination. ✈️😄
+####    Thank you for dropping by. <a href ="mailto:amicableycot@gmail.com">Hook on with me</a>; let’s create something awesome!
+####     Any insights or contributions, I’m receptive and attentive. (~_^)
+######         You’re the pilot of your life, embracing the thrill of each moment as time soars by, steering towards your dreams with unstoppable determination. 🚀😄
 <!--
 - **lewiskirori/lewiskirori** is a ✨ _special_ ✨ repository!
 - 🔭 I’m currently working on ...
