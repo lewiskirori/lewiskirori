@@ -1,5 +1,5 @@
 
-#   Good day! 👋
+##   Good day! 👋
 #    Thank you for dropping by. <a href ="mailto:amicableycot@gmail.com">Hook on with me</a>; let’s create something awesome!
 #     Any insights or contributions, I’m profoundly receptive and attentive. (~_^)
 #         You’re the pilot of your life, embracing the thrill of each moment as time soars by, steering towards your dreams with unstoppable determination. 🚀😄
