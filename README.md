@@ -1,7 +1,7 @@
 <!DOCTYPE htm>
 <htm>
 
-<body style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100vh; margin: 0;">
+<body>
 
 <div style="text-align: center;">
   <h2>Good day! 👋</h2>
