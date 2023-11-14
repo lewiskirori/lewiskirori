@@ -1,19 +1,10 @@
+<div align="center">
+  <h3>Good day! 👋</h3>
+  <h4>Thank you for dropping by. <a href ="mailto:amicableycot@gmail.com">Hook on with me</a>; let’s create something awesome!</h4>
+  <h4>Any insights or contributions, I’m profoundly receptive and attentive. (~_^)</h4>
+  <h5>You’re the pilot of your life, embracing the thrill of each moment as time soars by, steering towards your dreams with unstoppable determination. 🚀😄</h5>
+</div>
 
-
-<!DOCTYPE html>
-<html>
-
-<body>
-
-<h1>🌟 Greetings! 🌟</h1>
-<p>
-  <strong>Welcome and Thanks for Visiting!</strong><br>
-  If you have any insights or contributions to share, your input is highly valued. Remember, you're the captain of your life's journey. 🚀
-</p>
-
-</body>
-
-</html>
 <!--
 - **lewiskirori/lewiskirori** is a ✨ _special_ ✨ repository!
 - 🔭 I’m currently working on ...
