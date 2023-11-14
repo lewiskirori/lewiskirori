@@ -3,12 +3,14 @@
 
 <body style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100vh; margin: 0;">
 
-<h2 style="text-align: center;">Good day! 👋</h2>
-<p style="text-align: center;">
-  <strong>Thank you for dropping by. <a href ="mailto:amicableycot@gmail.com">Hook on with me</a>; let’s create something awesome!</strong><br>
-  <strong>Any insights or contributions, I’m profoundly receptive and attentive. (~_^)</strong><br>
-  You’re the pilot of your life, embracing the thrill of each moment as time soars by, steering towards your dreams with unstoppable determination. 🚀😄
-</p>
+<div style="text-align: center;">
+  <h2>Good day! 👋</h2>
+  <p>
+    <strong>Thank you for dropping by. <a href ="mailto:amicableycot@gmail.com">Hook on with me</a>; let’s create something awesome!</strong><br>
+    <strong>Any insights or contributions, I’m profoundly receptive and attentive. (~_^)</strong><br>
+    You’re the pilot of your life, embracing the thrill of each moment as time soars by, steering towards your dreams with unstoppable determination. 🚀😄
+  </p>
+</div>
 
 </body>
 
