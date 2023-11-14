@@ -1,7 +1,7 @@
 <!DOCTYPE htm>
 <htm>
 
-<body align="center">
+<body>
 
 <h2>Good day! 👋</h2>
 <p>
