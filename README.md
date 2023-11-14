@@ -4,6 +4,12 @@
   <h4>Any insights or contributions, I’m profoundly receptive and attentive. (~_^)</h4>
   <h5>You’re the pilot of your life, embracing the thrill of each moment as time soars by, steering towards your dreams with unstoppable determination. 🚀😄</h5>
 </div>
+<div style="text-align: center;">
+  <h3>Good day! 👋</h3>
+  <h4>Thank you for dropping by.</h4>
+  <h4>Any insights or contributions.</h4>
+  <h5>You're the pilot of your life.</h5>
+</div>
   
 <!--
 - **lewiskirori/lewiskirori** is a ✨ _special_ ✨ repository!
