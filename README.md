@@ -1,23 +1,6 @@
 <!DOCTYPE htm>
 <htm>
 
-<head>
-  <style>
-    body {
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      justify-content: center;
-      height: 100vh;
-      margin: 0;
-    }
-
-    h2, p {
-      text-align: center;
-    }
-  </style>
-</head>
-
 <body>
 
 <h2>Good day! 👋</h2>
