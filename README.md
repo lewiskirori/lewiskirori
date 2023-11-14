@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<htm>
+<html>
 
 <body>
 
@@ -14,7 +14,7 @@
 
 </body>
 
-</htm>
+</html>
 
 <!--
 - **lewiskirori/lewiskirori** is a ✨ _special_ ✨ repository!
