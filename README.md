@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html>
-
 <body>
 
   <div style="text-align: center;">
@@ -13,7 +12,6 @@
   </div>
 
 </body>
-
 </html>
   
 <!--
