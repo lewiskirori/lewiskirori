@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<htm>
+<html lang="en">
 <body>
 
   <div style="text-align: center;">
@@ -12,7 +12,7 @@
   </div>
 
 </body>
-</htm>
+</html>
   
 <!--
 - **lewiskirori/lewiskirori** is a ✨ _special_ ✨ repository!
