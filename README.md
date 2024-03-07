@@ -10,7 +10,6 @@
       &#10077;<em>You’re the pilot of your life, seizing the excitement of every second as it flies by, navigating towards your dreams with staunch determination. 🚀😄</em>&#10078;
     </p>
   </div>
-
 </body>
 </html>
   
