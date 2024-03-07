@@ -6,8 +6,8 @@
     <h2>Good day! 👋</h2>
     <p>
       <strong>Thank you for dropping by. <a href ="mailto:amicableycot@gmail.com">Hook on with me</a>; let’s create something awesome!</strong><br>
-      <strong>Any insights or contributions, I’m receptive and attentive. (~_^)</strong><br>
-      <em>You’re the pilot of your life, seizing the excitement of every second as it flies by, navigating towards your dreams with staunch determination.</em> 🚀😄
+      Any insights or contributions, I’m receptive and attentive. (~_^)<br>
+      <em>You’re the pilot of your life, seizing the excitement of every second as it flies by, navigating towards your dreams with staunch determination. 🚀😄</em>
     </p>
   </div>
 
