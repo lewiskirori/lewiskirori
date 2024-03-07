@@ -27,4 +27,5 @@
 - Allied: the company && affiliated || working together with && Skilled craftsmanship allied to advanced technology.
 - SOftware ARchitect ASpirant.
 - The Future and the Present.
+- Stauch || true-blue
 -->                                                     
