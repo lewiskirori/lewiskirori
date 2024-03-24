@@ -29,4 +29,5 @@
 - ✨ The Future and the Present.
 - 💫 Stauch || true-blue || ...
 - ✨ Rookie || embryonic || nascent entrepreneur || up-and-coming entrepreneur || freshman//newbie mogul || budding tycoon || junior business mogul
+- 🚀 •·
 - -->                                                     
