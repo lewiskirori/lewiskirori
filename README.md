@@ -7,7 +7,7 @@
     <p>
       <strong>Thank you for dropping by. <a href ="mailto:amicableycot@gmail.com">Hook on with me</a>; let’s create something awesome!</strong><br>
       <p>
-      <strong>Any insights or contributions, I’m receptive and attentive. (~_^)</strong><br>
+      <strong>Any insights or contributions, I’m receptive and attentive.</strong><br>
       </p>
       <p>
       <strong>(~_^)</strong><br>
