@@ -10,7 +10,7 @@
       <strong>Any insights or contributions, I’m receptive and attentive. (~_^)</strong><br>
       </p>
       <p>
-      <em>what’s real prospers 🚀</em>
+      <em>What’s real prospers 🚀</em>
       </p>
     </p>
   </div>
@@ -28,11 +28,11 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- 💫 Trailblazing || forward-looking || progressive || revolutionary || avant-garde || trendsetting || ...
+- 💫 Avant-garde || advanced || ahead of its time || state-of-the-art || ultramodern || revolutionary || trailblazing || trendsetting || ...
 - ✨ Allied: The Company && affiliated || working together with && Skilled craftsmanship allied to advanced technology.
 - 💫 SOftware ARchitect ASpirant.
 - ✨ The Future and the Present.
 - 💫 Stauch || true-blue || ...
-- ✨ Rookie || embryonic || nascent entrepreneur || up-and-coming entrepreneur || freshman//newbie mogul || budding tycoon || junior business mogul
+- ✨ Nascent || embryonic || rookie entrepreneur || up-and-coming entrepreneur || freshman//newbie mogul || budding tycoon || junior business mogul
 - 🚀 ·•
 - -->                                                     
