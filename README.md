@@ -10,7 +10,10 @@
       <strong>Any insights or contributions, I’m receptive and attentive. (~_^)</strong><br>
       </p>
       <p>
-      <em>what’s real prospers 🚀</em>
+      <strong>(~_^)</strong><br>
+      </p>
+      <p>
+       <em>what’s real prospers 🚀</em>
       </p>
     </p>
   </div>
