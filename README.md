@@ -13,7 +13,7 @@
       <strong>(~_^)</strong><br>
       </p>
       <p>
-       <em><strong>what’s real prospers 🚀</strong></em>
+       <em><strong>Listen to your heart; it knows the way 🚀</strong></em>
       </p>
     </p>
   </div>
