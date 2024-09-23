@@ -13,7 +13,7 @@
       <strong>(~_^)</strong><br>
       </p>
       <p>
-       <em><strong>Listen to your heart; it knows the way 🚀</strong></em>
+       <em><strong>Today, all your plans will change. But that’s how it should be. 🚀</strong></em>
       </p>
     </p>
   </div>
