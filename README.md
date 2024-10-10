@@ -13,7 +13,7 @@
       <strong>(~_^)</strong><br>
       </p>
       <p>
-       <em><strong>Today, all your plans will change. But that’s how it should be. 🚀</strong></em>
+       <em><strong>Today is your day! But it’s almost over. 🚀</strong></em>
       </p>
     </p>
   </div>
