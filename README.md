@@ -13,7 +13,7 @@
       <strong>(~_^)</strong><br>
       </p>
       <p>
-       <em><strong>You’re not just in trend; you create trends yourself. 🚀</strong></em>
+       <em><strong>Today is your day! But it’s almost over. 🚀</strong></em>
       </p>
     </p>
   </div>
