@@ -13,7 +13,7 @@
       <strong>(~_^)</strong><br>
       </p>
       <p>
-       <em><strong>What’s real prospers. 🚀</strong></em>
+       What’s real prospers. 🚀
       </p>
     </p>
   </div>
